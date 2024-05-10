@@ -33,6 +33,12 @@ public:
         cout << "Push Value: " << value << endl;
         return value;
     }
+
+    // pop operation : Remove the topmost element from the stack
+    void pop() {
+
+    }
+
 };
 
 
